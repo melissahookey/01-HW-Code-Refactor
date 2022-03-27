@@ -23,3 +23,11 @@
 11. Moved .benefit-cost h3 and .benefit-cost img so they were under .benefit-cost
 
 12. Added comments to CSS and HTML to organize the sections
+
+13. Changed all of the <div> tags to semantic tags
+        a. <header>
+        b. <nav>
+        c. <img>
+        d. <article>
+        e. <section>
+        f. <footer>
