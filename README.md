@@ -24,10 +24,10 @@
 
 12. Added comments to CSS and HTML to organize the sections
 
-13. Changed all of the <div> tags to semantic tags
-        a. <header>
-        b. <nav>
-        c. <img>
-        d. <article>
-        e. <section>
-        f. <footer>
+13. Changed all of the div <div> tags to semantic tags
+        a. header <header>
+        b. nav <nav>
+        c. img <img>
+        d. article <article>
+        e. section <section>
+        f. footer <footer>
